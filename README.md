@@ -1,15 +1,15 @@
 # 🫀 Heart Disease Predictor
 
-A Machine Learning web app built using Streamlit to predict the likelihood of heart disease in a patient based on various health parameters. This project utilizes models like Logistic Regression, **SVM, **Decision Tree, and **Random Forest with data processing and visualization using pandas, **numpy, and **plotly.
+A Machine Learning web app built using Streamlit to predict the likelihood of heart disease in a patient based on various health parameters. This project utilizes models like Logistic Regression, SVM, Decision Tree, and Random Forest with data processing and visualization using pandas, **numpy, and **plotly.
 
 ---
 ## 🧠 Models Used
 
-- ✅ Decision Tree  
-- ✅ Logistic Regression  
-- ✅ Random Forest  
-- ✅ Support Vector Machine (SVM)  
-- ✅ Grid Search Optimized Random Forest
+✅ Decision Tree  
+✅ Logistic Regression  
+✅ Random Forest  
+✅ Support Vector Machine (SVM)  
+✅ Grid Search Optimized Random Forest
 Each model predicts whether a person is at risk of heart disease using 11 input features.
 
 ## ⚙ Features
