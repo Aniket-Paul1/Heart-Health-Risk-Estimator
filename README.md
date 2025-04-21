@@ -3,7 +3,6 @@
 A Machine Learning web app built using Streamlit to predict the likelihood of heart disease in a patient based on various health parameters. This project utilizes models like Logistic Regression, **SVM, **Decision Tree, and **Random Forest with data processing and visualization using pandas, **numpy, and **plotly.
 
 ---
-~
 ## 🧠 Models Used
 
 - ✅ Decision Tree  
